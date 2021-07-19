@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Darky</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=helixo17&label=Profile%20views&color=0e75b6&style=plastic" alt="helixo17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=helixo17&label=Profile%20views&color=0e75b6&style=plastic" alt="124-darky" /> </p>
 
 - 🔭 I’m owner of EvilCube (https://evilcube.eu)
 
