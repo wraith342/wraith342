@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Darky</h1>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=helixo17&label=Profile%20views&color=0e75b6&style=plastic" alt="124-darky" /> </p>
+<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=helixo17&label=Profile%20views&color=0e75b6&style=plastic" alt="124-darky" /> </p>
 
 - 🔭 I’m owner of [EvilCube.eu](https://evilcube.eu/)
 
@@ -13,9 +13,9 @@
 <h3 align="left">My Stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=124-darky&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="124-darky" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=124-darky&show_icons=true&theme=tokyonight&locale=en" alt="124-darky" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=124-darky&show_icons=true&theme=tokyonight&locale=en" alt="124-darky" /></p>
 
 <br>
 
 <h3 align="left">My Discord-Stats: </h3>
-<p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="124-darky" /></p>
+<p><img align="left" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="124-darky" /></p>
