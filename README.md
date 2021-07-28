@@ -15,4 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=124-darky&show_icons=true&theme=tokyonight&locale=en" alt="124-darky" /></p>
 
+<br>
+
+<h3 align="left">My Discord-Stats: </h3>
 <p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="124-darky" /></p>
