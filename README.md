@@ -18,4 +18,4 @@
 <br>
 
 <h3 align="left">My Discord-Stats: </h3>
-<p><img align="left" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="124-darky" /></p>
+<p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="124-darky" /></p>
