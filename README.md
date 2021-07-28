@@ -2,6 +2,7 @@
 <p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=helixo17&label=Profile%20views&color=0e75b6&style=plastic" alt="124-darky" /> </p>
 
 - 🔭 I’m owner of [EvilCube.eu](https://evilcube.eu/)
+- 🔭 More Infos about me: [Link](http://darky.evilcube.eu/)
 
 <br>
 
