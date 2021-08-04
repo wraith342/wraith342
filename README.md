@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Itchy</h1>
-<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=124-itchy&label=Profile%20views&color=0e75b6&style=plastic" alt="124-itchy" /> </p>
+<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=eyitchy&label=Profile%20views&color=0e75b6&style=plastic" alt="eyitchy" /> </p>
 
 - 🔭 I’m owner of [EvilCube.eu](https://evilcube.eu/)
 - 🔭 More Infos about me: [Link](http://itchy.evilcube.eu/)
@@ -12,9 +12,9 @@
 <br>
 
 <h3 align="left">My Stats: </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=124-itchy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="124-itchy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyitchy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eyitchy" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=124-itchy&show_icons=true&theme=tokyonight&locale=en" alt="124-itchy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eyitchy&show_icons=true&theme=tokyonight&locale=en" alt="eyitchy" /></p>
 
 <br>
 
