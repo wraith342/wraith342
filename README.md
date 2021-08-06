@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 I'm Galoc</h1>
-<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=eygaloc&label=Profile%20views&color=0e75b6&style=plastic" alt="eygaloc" /> </p>
+<h1 align="center">Hi 👋 I'm Darky</h1>
+<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=eydarky&label=Profile%20views&color=0e75b6&style=plastic" alt="eydarky" /> </p>
 
 - 🔭 I’m owner of [EvilCube.eu](https://evilcube.eu/)
-- 🔭 More Infos about me: [Link](http://galoc.evilcube.eu/)
+- 🔭 More Infos about me: [Link](http://darky.evilcube.eu/)
 
 <br>
 
@@ -12,11 +12,11 @@
 <br>
 
 <h3 align="left">My Stats: </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eygaloc&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eygaloc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eydarky&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eydarky" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eygaloc&show_icons=true&theme=tokyonight&locale=en" alt="eygaloc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eydarky&show_icons=true&theme=tokyonight&locale=en" alt="eydarky" /></p>
 
 <br>
 
 <h3 align="left">My Discord-Stats: </h3>
-<p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="eygaloc" /></p>
+<p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="eydarky" /></p>
