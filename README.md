@@ -24,4 +24,4 @@
 <br>
 
 <h3 align="left">Spotify: </h3>
-<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=Darky&cover_image=true&theme=default" alt="eydarky">
+<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=9orc55imqyiags1u8nr9yj72c&cover_image=true&theme=default" alt="eydarky">
