@@ -20,3 +20,8 @@
 
 <h3 align="left">My Discord-Stats: </h3>
 <p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="eydarky" /></p>
+
+<br>
+
+<h3 align="left">Spotify: </h3>
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=EyDarky&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=EyDarky&cover_image=true&theme=default"/></a></div>
