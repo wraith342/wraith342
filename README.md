@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Leoo</h1>
-<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=eydarky&label=Profile%20views&color=0e75b6&style=plastic" alt="eydarky" /> </p>
+<p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=eydarky&label=Profile%20views&color=0e75b6&style=plastic" alt="eyleoo" /> </p>
 
 - 🔭 I’m owner of [EvilCube.eu](https://evilcube.eu/)
-- 🔭 More Infos about me: [Link](http://darky.be/)
+- 🔭 More Infos about me: [Link](https://evilcube.eu/leo)
 
 <br>
 
@@ -12,16 +12,16 @@
 <br>
 
 <h3 align="left">My Stats: </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eydarky&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eydarky" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eydarky&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eyleoo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eydarky&show_icons=true&theme=tokyonight&locale=en" alt="eydarky" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eydarky&show_icons=true&theme=tokyonight&locale=en" alt="eyleoo" /></p>
 
 <br>
 
 <h3 align="left">My Discord-Stats: </h3>
-<p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="eydarky" /></p>
+<p><img align="center" src="https://lanyard-profile-readme.vercel.app/api/351661012627226625" alt="eyleoo" /></p>
 
 <br>
 
 <h3 align="left">Spotify: </h3>
-<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=9orc55imqyiags1u8nr9yj72c&cover_image=true&theme=default" alt="eydarky">
+<p><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=9orc55imqyiags1u8nr9yj72c&cover_image=true&theme=default" alt="eyleoo">
