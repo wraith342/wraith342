@@ -2,7 +2,7 @@
 <p align="right" style="margin-top: 50px;"> <img src="https://komarev.com/ghpvc/?username=legendaryleoo&label=Profile%20views&color=0e75b6&style=plastic" alt="legendaryleoo" /> </p>
 
 - 🔭 I’m owner of [shinji.at](https://shinji.at)
-- 🔭 More Infos about me: [Link](https://leoohvh.de)
+- 🔭 More Infos about me: [Link](https://wraith.systems)
 
 <br>
 
